@@ -1,17 +1,7 @@
 {
   "name": "expensy",
-  "version": "1.0.0",
-  "description": "Installation:\r - run ```git clone https://github.com/netanmangal/expensy.git```\r - ```cd expensy```\r - run ```npm i && npm start``` in project folder's directory",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/netanmangal/expensy.git"
-  },
+  "version": "0.1.0",
   "author": "Netan Mangal & Rajat Bains",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/netanmangal/expensy/issues"
-  },
-  "homepage": "https://github.com/netanmangal/expensy#readme",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
